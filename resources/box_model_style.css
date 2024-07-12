@@ -1,0 +1,60 @@
+/*
+  white: #FFFFFF
+  accent1: #4475B3
+  accent2: #9C6D3C
+  
+*/
+
+h1,
+h2,
+h3 {
+  color: #4475B3;
+}
+
+h1 {
+  text-align: center;
+}
+
+th,
+td {
+  border: #9C6D3C solid 5px;
+  padding: 8px;
+
+}
+
+table {
+  border-collapse: collapse;
+}
+
+a {
+  color: #4475B3;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #9C6D3C;
+}
+
+p.example {
+  background-color: #4475B3;
+  color: white;
+  width: 75%;
+  padding: 20px;
+  border: #9C6D3C double 10px;
+  margin: 50px;
+
+}
+
+div.image {
+  width: 646px;
+  background-color: #4475B3;
+  padding: 30px;
+  border: dashed #9C6D3C 8px;
+  margin: 35px;
+}
+
+body {
+  padding-left: 20px;
+  font-size: 1.2em;
+}
